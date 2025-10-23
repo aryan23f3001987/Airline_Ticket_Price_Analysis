@@ -1,8 +1,10 @@
 # Indian Airlines Ticket Price Analysis
 
+<div align="center">
 ![Project Status: Complete](https://img.shields.io/badge/status-complete-green)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Tools](https://img.shields.io/badge/Tools-Pandas%20%7C%20Seaborn%20%7C%20Power%20BI-brightgreen)
+</div>
 
 An exploratory data analysis (EDA) of domestic flight prices in India. This project analyzes a dataset of over 300,000 flight bookings to uncover the key factors that influence ticket pricing.
 
