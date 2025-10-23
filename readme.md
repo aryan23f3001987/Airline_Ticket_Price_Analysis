@@ -1,4 +1,4 @@
-# Indian Airlines Ticket Price Analysis
+<h1 align="center">Indian Airlines Ticket Price Analysis</h1>
 
 <div align="center">
   
